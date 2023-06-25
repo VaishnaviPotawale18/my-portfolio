@@ -12,8 +12,8 @@ const Projects = () => {
     {
       id: 1,
       src: portfolio,
-      demo : "my-portfolio-j87jujz4g-vaishnavipotawale18.vercel.app",
-      code : "https://github.com/VaishnaviPotawale18/my-portfolio.git",
+      demo : "my-portfolio-topaz-eight-65.vercel.app",
+      code : "https://github.com/VaishnaviPotawale18/my-portfolio",
 
     },
     {
