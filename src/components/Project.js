@@ -12,8 +12,8 @@ const Projects = () => {
     {
       id: 1,
       src: portfolio,
-      demo : "#",
-      code : "https://github.com/ManishaLalage/zomato-clone-project",
+      demo : "my-portfolio-j87jujz4g-vaishnavipotawale18.vercel.app",
+      code : "https://github.com/VaishnaviPotawale18/my-portfolio.git",
 
     },
     {
