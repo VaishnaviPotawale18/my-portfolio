@@ -1,5 +1,5 @@
 import React from "react";
-import ZomatoClone from "../assets/projects/Zomato Clone.png";
+// import ZomatoClone from "../assets/projects/Zomato Clone.png";
 import nodeServer from "../assets/projects/bookRecordServer.png";
 import myTask from "../assets/projects/myTask.png";
 import bookMyShow from "../assets/projects/bookMyShow.png";
